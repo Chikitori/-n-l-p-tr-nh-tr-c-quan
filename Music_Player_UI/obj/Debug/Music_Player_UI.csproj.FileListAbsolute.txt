@@ -1,0 +1,14 @@
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.exe.config
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.exe
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.pdb
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Form1.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Properties.Resources.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.GenerateResource.cache
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CoreCompileInputs.cache
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CopyComplete
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.exe
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.pdb
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Player.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.recent.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.recently_viewed.resources
